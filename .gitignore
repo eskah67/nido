@@ -1,0 +1,12 @@
+# Configuration personnelle (identifiants d'entités, adresse de Home Assistant) : jamais dans le dépôt.
+perso/
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Archives générées
+*.zip
