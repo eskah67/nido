@@ -1,10 +1,10 @@
 # Nido
 
-**Une interface mobile pour Home Assistant, générée automatiquement à partir de ta maison.**
+**Une interface moderne pour Home Assistant, générée automatiquement à partir de ta maison.**
 
 Nido lit les pièces, appareils et capteurs de ton Home Assistant et construit tout seul une application : accueil, lumières, chauffage, consommation, sécurité… Tu peux ensuite masquer, renommer, changer l'icône ou déplacer n'importe quelle carte. Elle s'installe sur l'écran d'accueil du téléphone comme une vraie application.
 
-*English: Nido is a mobile web app (PWA) for Home Assistant that builds its interface automatically from your areas, devices and sensors. Every card can be hidden, renamed, re-iconed or moved. The interface is in French for now.*
+*English: Nido is a modern web app (PWA) for Home Assistant that builds its interface automatically from your areas, devices and sensors. Every card can be hidden, renamed, re-iconed or moved. The interface is in French for now.*
 
 ## Ce que fait Nido
 
@@ -22,7 +22,7 @@ Nido lit les pièces, appareils et capteurs de ton Home Assistant et construit t
 - **Fiches détaillées :** touche une valeur pour voir son historique sur 24 h.
 - **Personnalisable :** chaque carte peut être masquée, renommée, changée d'icône ou déplacée.
 - **Réglages synchronisés :** les choix sont enregistrés dans le compte Home Assistant de chaque utilisateur et le suivent sur tous ses appareils.
-- **Vraie app mobile :** plein écran, démarrage instantané, reconnexion automatique, thème clair ou sombre.
+- **Comme une vraie app :** sur téléphone, tablette ou ordinateur, en plein écran, démarrage instantané, reconnexion automatique, thème clair ou sombre.
 
 Une page n'apparaît que si les appareils correspondants existent : sans aspirateur, pas de page Ménage.
 

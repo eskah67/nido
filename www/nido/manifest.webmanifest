@@ -1,7 +1,7 @@
 {
   "name": "Nido",
   "short_name": "Nido",
-  "description": "Une interface mobile pour Home Assistant, générée automatiquement à partir de ta maison.",
+  "description": "Une interface moderne pour Home Assistant, générée automatiquement à partir de ta maison.",
   "lang": "fr",
   "start_url": "./index.html",
   "scope": "./",
