@@ -1,14 +1,14 @@
 #!/bin/sh
 # Installe ou met à jour Nido dans Home Assistant.
 # À lancer depuis l'app « Terminal & SSH » de Home Assistant :
-#   curl -fsSL https://raw.githubusercontent.com/__OWNER__/nido/main/scripts/install.sh | sh
+#   curl -fsSL https://raw.githubusercontent.com/eskah67/nido/main/scripts/install.sh | sh
 #
 # Options (variables d'environnement) :
 #   NIDO_DEST    dossier d'installation (par défaut /config/www/nido)
 #   NIDO_BRANCH  branche ou tag à installer (par défaut main)
 set -eu
 
-REPO="${NIDO_REPO:-__OWNER__/nido}"
+REPO="${NIDO_REPO:-eskah67/nido}"
 BRANCH="${NIDO_BRANCH:-main}"
 DEST="${NIDO_DEST:-/config/www/nido}"
 TMP="$(mktemp -d)"

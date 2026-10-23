@@ -33,7 +33,7 @@ Une page n'apparaît que si les appareils correspondants existent : sans aspirat
 Dans Home Assistant, installe l'app **Terminal & SSH**, ouvre-la, puis lance :
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/__OWNER__/nido/main/scripts/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/eskah67/nido/main/scripts/install.sh | sh
 ```
 
 La même commande sert pour les mises à jour. Ta configuration personnelle (`config.js`) est conservée.
